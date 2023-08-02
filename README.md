@@ -1,2 +1,2 @@
 # formulariocic
-Criação de formulário avompanhado pela rocketseat 
+Criação de formulário acompanhado pela rocketseat 
